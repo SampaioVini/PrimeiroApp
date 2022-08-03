@@ -1,0 +1,15 @@
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.deps.json
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.pdb
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.AssemblyReference.cache
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfoInputs.cache
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfo.cs
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\refint\PrimeiroApp.dll
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.pdb
+D:\Vinicius\Mobile\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\ref\PrimeiroApp.dll
